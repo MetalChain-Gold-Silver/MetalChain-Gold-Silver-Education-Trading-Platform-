@@ -1,0 +1,15 @@
+{
+  "name": "metalchain",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Open-source platform for precious metals education, simulation, and future tokenized asset infrastructure.",
+  "license": "MIT",
+  "workspaces": [
+    "frontend",
+    "backend",
+    "smart-contract"
+  ],
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
